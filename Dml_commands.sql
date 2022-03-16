@@ -12,7 +12,7 @@ insert into heart values (23,"F","ATAS",124,345,2,"STD",192,"N",3,"Low",9);
 
 /*Insert multiple values into the heart table*/
 insert into heart values (24,"F","ATAS",124,345,2,"STD",192,"N",3,"Low",9),
-						 (25,"F","ATAS",124,345,2,"STD",192,"N",3,"Low",9),
+			 (25,"F","ATAS",124,345,2,"STD",192,"N",3,"Low",9),
                          (26,"F","ATAS",124,345,2,"STD",192,"N",3,"Low",9);
                          
 /* Insert Mandatory values into the heart table */
